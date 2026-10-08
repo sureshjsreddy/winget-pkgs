@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: SureshJanakiReddy.GeminiDesktop
+PackageVersion: 0.2.31
+PackageLocale: en-US
+Publisher: Suresh Janaki Reddy
+PublisherUrl: https://github.com/sureshjsreddy/gemini-desktop
+PublisherSupportUrl: https://github.com/sureshjsreddy/gemini-desktop/issues
+Author: Suresh Janaki Reddy
+PackageName: Gemini Desktop
+PackageUrl: https://github.com/sureshjsreddy/gemini-desktop
+License: MIT
+LicenseUrl: https://github.com/sureshjsreddy/gemini-desktop/blob/master/LICENSE
+ShortDescription: Modern Windows desktop client for Google Gemini CLI built with Tauri v2 and SvelteKit
+Description: |-
+  Gemini Desktop is a native desktop application that acts as an intelligent GUI frontend for Google's Gemini CLI agent.
+  Features include dual terminal drawer with persistent PowerShell sessions, rich workspace explorer, full session history,
+  markdown rendering, MCP server integration, and automatic process supervision.
+Moniker: gemini-desktop
+Tags:
+- ai
+- gemini
+- google-gemini
+- svelte
+- tauri
+ReleaseNotesUrl: https://github.com/sureshjsreddy/gemini-desktop/releases/tag/v0.2.31
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
